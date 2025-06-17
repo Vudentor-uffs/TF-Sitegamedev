@@ -21,3 +21,16 @@ footer {
     font-size: 5;
     box-shadow: 0 0 5px #171717;
 }
+.img_contatos{
+    width: 4%;
+    height: 4%;
+}
+.a_contatos{
+    text-decoration: none;
+    color: var(--bs-body-color)
+}
+
+.div_contatos{
+    text-align: left;
+    margin-left: 45%;
+}
